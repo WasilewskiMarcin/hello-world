@@ -1,3 +1,3 @@
 # hello-world
-To repozytorium służy do ćwiczenia przepływu GitHub.
-Jest to początek czegoś wielkiego!
+This repository is for practicing GitHub workflow.
+This is the beginning of something great!
